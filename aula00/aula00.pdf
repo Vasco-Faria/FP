@@ -1,0 +1,6 @@
+altura=21.9
+largura=20.0
+area=largura*altura
+perimetro=largura*2+altura*2
+area
+perimetro
